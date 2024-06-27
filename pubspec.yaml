@@ -1,0 +1,79 @@
+name: flutter_asgar_apps
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+
+
+
+
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.4.0
+
+dev_dependencies:
+
+  
+  
+  
+  
+  
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  fonts:
+    - family: FiraSans
+      fonts:
+        - asset: assets/fonts/FiraSans-Regular.ttf
+
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-Regular.ttf
+  
+  
